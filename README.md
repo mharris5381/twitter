@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=''/>
+<img src='https://github.com/mharris5381/twitter/blob/main/twitter1911.gif'/>
